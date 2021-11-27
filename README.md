@@ -18,9 +18,9 @@ Execute the program fff
 <html>
 
 <body>
-<h1>Name: S.ABHISHEK</h1>
-<h3>21004552 /h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
+<h1>SYAM TEJ P</h1>
+<h2>21002938</h2>
+<h3>Artificial Intelligence and Machine Learning</h3>
 </body>
 
 </html>
@@ -28,8 +28,8 @@ Execute the program fff
 # OUPUT
 <html>
 <body>
-<h1>Name: S.ABHISHEK</h1>
-<h3>21004552</h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
+<h1>SYAM TEJ P</h1>
+<h2>21002938</h2>
+<h3>Artificial Intelligence and Machine Learning</h3>
 </body>
 </html>
